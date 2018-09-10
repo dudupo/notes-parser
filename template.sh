@@ -18,7 +18,7 @@ cat << EOF
       width: 380px;
       right: 60px;
     }
-    code {
+    p ~ code {
       direction: ltr;
     }
   </style>

@@ -18,7 +18,7 @@ cat << EOF
       width: 380px;
       right: 60px;
     }
-    div.highlight {
+    code {
       direction: ltr;
     }
   </style>

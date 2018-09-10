@@ -17,6 +17,7 @@ cat << EOF
       position: absolute;
       width: 380px;
       right: 60px;
+      padding: 25px;
     }
   </style>
 

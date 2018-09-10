@@ -14,7 +14,7 @@ cat << EOF
       color:#ff6699;
     }
     div {
-      position: absolute;
+      position: relative;
       width: 380px;
       right: 60px;
     }

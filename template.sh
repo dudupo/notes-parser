@@ -16,7 +16,7 @@ cat << EOF
     div {
       position: absolute;
       width: 380px;
-      right: 70px;
+      right: 50px;
     }
   </style>
 

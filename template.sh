@@ -15,7 +15,7 @@ cat << EOF
     }
     div {
       position: relative;
-      width: 340px;
+      width: 380px;
       right: 60px;
     }
   </style>

@@ -13,7 +13,7 @@ cat << EOF
     h2 {
       color:#ff6699;
     }
-    div {
+    div.base {
       position: relative;
       width: 380px;
       right: 60px;

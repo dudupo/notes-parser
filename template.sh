@@ -15,7 +15,7 @@ cat << EOF
     }
     .base {
       position: relative;
-      width: 380px;
+      width: 375px;
       right: 60px;
     }
   </style>
